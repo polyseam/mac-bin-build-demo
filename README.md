@@ -1,5 +1,5 @@
 <a href="https://github.com/polyseam/mac-bin-build-demo/actions/workflows/bin-build.yaml">
-    <img src="https://github.com/polyseam/mac-bin-build-demo/actions/workflows/main-latest.yaml/badge.svg" alt="main" style="max-width: 100%;">
+    <img src="https://github.com/polyseam/mac-bin-build-demo/actions/workflows/bin-build.yaml/badge.svg" alt="main" style="max-width: 100%;">
 </a>
 
 # rate-limit issue repro
@@ -23,3 +23,4 @@ IP Address.
 | Timestamp                 | OS |
 | ------------------------- | -- |
 | 2024-06-05T21:14:11+00:00 | ?  |
+| 2024-06-05T21:14:16+00:00 | ?  |
